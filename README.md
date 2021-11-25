@@ -1,3 +1,6 @@
 # logApp-scaling-octo
 
-#Name: logApp Project
+# Name: logApp Project
+
+## Discription
+  Pratice 10 -04
